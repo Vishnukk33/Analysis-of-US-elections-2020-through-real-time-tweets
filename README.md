@@ -1,3 +1,6 @@
+# Twitter-Project
+
+
 1.Created a Twitter Streaming model to collect real-time tweets based on location and hashtags and stored the collected tweets in the local database as well as in the cloud.
 
 2.Performed sentiment analysis, bot identification and visualization from the data obtained.
