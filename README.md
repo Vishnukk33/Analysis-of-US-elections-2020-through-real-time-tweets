@@ -13,7 +13,7 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 
 <ol type="1">
   <li><h4>Total no. of tweets tweeted per day</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400 padding=35px"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400 padding=75px"/>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep1.png" width="400" height="400"/>
   
   From the Above graphs we can tell that the total number of republican and democratic supporting tweets are almost comparable during the 5 days that we collected them. 
