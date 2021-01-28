@@ -133,7 +133,7 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   <li><h4>Removed vs verified vs non-verfied</h4></li>
   While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier had been removed. This is evidence that many accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.                                                                                                                                                         
   
-   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400" display="block" />
    
  These accounts according to some media could be used by different countries to sow discord during the election. From all the tweets we collected,  we found that over half of the twitter accounts that tweeted during these 5 days were in fact removed by the twitter team as they were suspected for being bots. This is an alarmingly large amount of accounts which was used to spread propaganda and fake opinions that could very well have impacted the voters and maybe even tipped the scale towards a certain party. 
   Hopefully the twitter team continuous to remove such malicious fake accounts to prevent any bias towards or against a party due to the propaganda spread.
