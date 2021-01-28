@@ -122,14 +122,14 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
    
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="700" height="600"  />
     
-   The above Graphs indicate that California, Florida, New York, Texas and Illinois are the states from which majority of the Democratic Party tweets originate in descending order. 
+   The above Graphs indicate that California, Florida, New York, Texas and Illinois are the states from which majority of the tweets supporting the Democratic Party originate ( indescending order). 
     
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="700" height="500"  /> 
     
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="700" height="600"  />
     
     
-   The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the Republican Party tweets originate in descending order. 
+   The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the tweets supporting the Republican Partyoriginate(in descending order)
   <li><h4>Removed vs verified vs non-verfied</h4></li>
   While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier had been removed. This is evidence that many accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.                                                                                                                                                         
   
