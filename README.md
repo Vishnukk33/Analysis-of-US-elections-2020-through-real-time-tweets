@@ -152,7 +152,7 @@ In order to check if the top most tweeted user's were bots or not, we used an AP
  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="600" height="400"  />
 
 
-The Accounts marked as unkown are set to private so we weren't be able to check if its a bot or not. Nevertheless,
+The Accounts marked as unkown are either set to private or removed so we weren't be able to check if its a bot or not. Nevertheless,
 We had some interesting findings such as:
 * With a threshold of 60%, 11 out of 12 public users were found to be bots and with a threshold of 40% all of them were marked as bots.
 * One user made the top for both most number of democratic as well republican tweets. We can conlude that this was most likely some kind of spam bot.
