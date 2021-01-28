@@ -4,9 +4,9 @@
 
 
 ## Data Visualization:
-https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png
 
-<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
+
+<img src="./Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
 
 
 1.Created a Twitter Streaming model to collect real-time tweets based on location and hashtags and stored the collected tweets in the local database as well as in the cloud.
