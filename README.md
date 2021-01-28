@@ -131,9 +131,8 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
     
    The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the tweets supporting the Republican Party originate(in descending order)
   <li><h4>Removed vs verified vs non-verfied</h4></li>
-  While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier were not available. This is because those accounts were either banned(by Twitter) or deactivated. This suggests that a good number of accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.      
+  While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier were not available. This is because those accounts were either banned(by Twitter) or deactivated. This suggests that a good number of accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.  
   
- 
   
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
    
