@@ -80,8 +80,7 @@ We have incorporated the following in our project:
 
 
 ## Data Visualization and Analysis:
-The entire visualization and analysis can be found in the ".ipynb" named https://github.com/Vishnukk33/Twitter-Project/blob/master/Data_Visualization.ipynb.
-
+The entire visualization and analysis can be found in the ".ipynb" named 'Data_Visualization.ipynb'
 ### Initialization and Preprocessing
 Files and variables required for visualization were imported and declared in this section.
 Reading of the input data as well as the preprocessing( segregation, ordering,etc) for it were carried out here.
