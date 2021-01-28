@@ -197,7 +197,9 @@ We performed sentiment analysis on a separate data-set as mentioned earlier and 
 To perform sentiment analysis we used the  Vader sentiment analysis API on the data-set. From the image you can tell that almost 50% of the tweets are positive in nature. This suggests that almost half of the users have a positive outlook on the elections results.
 
 ### Mapploter
+We have plotted the republican and democratic geo-tagged tweets on two separate heatmaps. This allows us to visualize and identify the spread of the respective party supporters accross the world. We have uploaded both the heatmaps on google drive (link below), please download the file and view it on your browser. 
 
+Drive link: https://drive.google.com/drive/folders/11V0DFpFqWhZsMPT1Th_3sMnfH5peRL4q?usp=sharing
 
 
 
