@@ -40,16 +40,19 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   The Graph shows how many followers the republic and democratic users have by segregating them into classes. From the above, we can tell that on average republican accounts have more followers than democratic users since the numbers from the republic users are higher in every class. Ofcourse this is limited to only the users from whom we collected the tweets.
   
   
-  <li><h4>Tweet count vs state (dems/rep)</h4></li>
+  <li><h4>Tweet count vs Originating State</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="600" height="500"  />
+   
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="700" height="600"  />
     
-   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="600" height="500"  />
+   The above Graphs indicate that California, Florida, New York, Texas and Illinois are the states from which majority of the Democratic Party tweets originate from in descending order. 
     
-  <li><h4>Tweet count percentage vs state</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="700" height="600"  />
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="600" height="500"  /> 
     
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="700" height="600"  />
     
+    
+   The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the Republic Party tweets originate from in descending order. 
   <li><h4>Removed vs verified vs non-verfied</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
   
