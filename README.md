@@ -2,11 +2,41 @@
 ## Features:
 
 
+## Data Visualization and Analysis:
 
-## Data Visualization:
+### Initialization
 
 
-<img src="./Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
+### Preprocessing
+
+
+### Visualization
+
+
+#### ff
+
+
+
+###
+
+
+<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
+1. Average No. of tweets tweeted per user in a day (dem/rep)
+2. Bar graph Total no of tweets tweeted per day (dems/rep)
+3. Bar graph No. of unique users tweeted per day (dems/rep)
+4. Bar graph groups vs followers (dems/rep)
+5. Bar graph Tweet count vs state (dems/rep)
+6. pie chart Tweet cout percentage vs state (dems/rep)
+7. pie chart removed vs verified vs non-verfied
+8. Bot check top 10 most tweeted users in each day (top 2 per day) (dems/repub)
+9. Top 10 hashtags with count (dems/rep)
+10. Word cloud Hashtags (dems/rep)
+11. Word cloud words in tweet (dem/rep)
+12. Pie chart Sentiment Analysis on election result
+13. Summary of all data counts
+14. Mapploter
+
+
 
 
 1.Created a Twitter Streaming model to collect real-time tweets based on location and hashtags and stored the collected tweets in the local database as well as in the cloud.
