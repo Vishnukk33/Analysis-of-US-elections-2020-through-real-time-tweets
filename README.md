@@ -11,11 +11,11 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 ### Visualization
 <h4>
 <ol type="1">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Average No. of tweets tweeted per user in a day(democratic)</li>
+  <li>Average No. of tweets tweeted per user in a day(republic)</li>
+  <li></li>
 </ol>  
-</h4?
+</h4>
 
 ### Botometer API
 
