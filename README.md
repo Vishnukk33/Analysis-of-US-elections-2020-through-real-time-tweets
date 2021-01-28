@@ -147,10 +147,10 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
 In order to check if the top most tweeted user's were bots or not, we used an API called Botometer. After running the API on the top 2 tweeters of each of day totalling to 9 users(since one of the top tweeters were repeated) for republican and democratic supporters, we found the following:
 
 
-  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoTweetsSS.PNG" width="500" height="400"  />
+  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoTweetsSS.PNG" width="500" height="450"  />
   
   
- <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="500" height="400"  />
+ <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="500" height="450"  />
 
 
 The Accounts marked as unkown are either set to private or removed so we weren't be able to check if its a bot or not. Nevertheless,
