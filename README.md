@@ -18,7 +18,7 @@ This part shows ths stuff
 
 ###
 
-
+<h4>Average No. of tweets tweeted per user in a day (dem/rep)</h4>
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
 1. Average No. of tweets tweeted per user in a day (dem/rep)
 2. Bar graph Total no of tweets tweeted per day (dems/rep)
