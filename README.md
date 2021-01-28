@@ -1,7 +1,7 @@
 # Twitter-Project
 
 ## Introduction:
-This project is an attempt to collect, process, and analyze data on United States Elections 2020. My friend Vishnu Krishnan() and I decided to proceed with this project because we wanted to know how it feels to solve a real-world problem where we need to do everything from scratch including collecting data, creating and processing data-sets, and recording our observations. We felt undertaking this project, would increase our knowledge domain and motivate us to venture into new fields.    
+This project is an attempt to collect, process, and analyze data on United States Elections 2020. My friend Arun Kumar(https://github.com/Arun152k) and I decided to proceed with this project because we wanted to know how it feels to solve a real-world problem where we need to do everything from scratch including collecting data, creating and processing data-sets, and recording our observations. We felt undertaking this project, would increase our knowledge domain and motivate us to venture into new fields.    
 
 ## Features:
 We have incorporated the following in our project:
@@ -151,17 +151,18 @@ In order to check if the top most tweeted user's were bots or not, we used an AP
 
 The Accounts marked as unkown are set to private so we weren't be able to check if its a bot or not. Nevertheless,
 We had some interesting findings such as:
-* Most of the users scored a 60% or higher chance of being a bot while one user alone scored a chance of over a 40% of being a bot.
-* The same top user had sent a lot of both republican and democratic tweets.
-* Some users consistently maintained the most number of tweets sent for more than a day's time.
-
+* With a threshold of 60%, 11 out of 12 public users were found to be bots and with a threshold of 40% all of them were marked as bots.
+* One user made the top for both most number of democratic as well republican tweets. We can conlude that this was most likely some kind of spam bot.
+* Some users consistently maintained the most number of tweets for more than a day also showing us that these where extremely active accounts and may have also been spam bots.
 
 ### Top Hashtags
+The images below show the top 10 most popular hastags in the tweets that we collected in the democratic and republican data-sets respectively:
 
   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoHashSS.PNG" width="500" height="400"  />
   
  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuHashSS.PNG" width="500" height="400"  />
 
+From the above images we can infer that Trump2020 was the most popular tweet with a whopping 41k tweets followed by BidenHarris2020.
 
 ### Word Clouds
 #### List of Most popular hastags as a word cloud  
@@ -171,6 +172,7 @@ We had some interesting findings such as:
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_hash.jpg" width="500" height="400"  />
 
+The word clouds above illustrate the most popular hashtags from democratic and republican tweets respectively in the shape of the US.
 
 #### Most popular words used in tweets as a world cloud
 
@@ -179,40 +181,23 @@ We had some interesting findings such as:
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_tweet.jpg" width="500" height="400"  />
 
+The word clouds above illustrate the most popular words from democratic and republican tweets respectively in the shape of a US flag.
+
 ### Sentiment Analysis
+
+We performed sentiment analysis on a separate data-set as mentioned earlier and the results obtained is shown below.
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Sentiment.png" width="500" height="400"  />
 
+To perform sentiment analysis we used the  () API on the data-set. From the image u can tell that almost 50% of the tweets are positive in nature.
 
 
-1. Average No. of tweets tweeted per user in a day (dem/rep)
-2. Bar graph Total no of tweets tweeted per day (dems/rep)
-3. Bar graph No. of unique users tweeted per day (dems/rep)
-4. Bar graph groups vs followers (dems/rep)
-5. Bar graph Tweet count vs state (dems/rep)
-6. pie chart Tweet cout percentage vs state (dems/rep)
-7. pie chart removed vs verified vs non-verfied
-8. Bot check top 10 most tweeted users in each day (top 2 per day) (dems/repub)
-9. Top 10 hashtags with count (dems/rep)
-10. Word cloud Hashtags (dems/rep)
-11. Word cloud words in tweet (dem/rep)
-12. Pie chart Sentiment Analysis on election result
+
+
+
+
+
+
+
 13. Summary of all data counts
 14. Mapploter
-
-
-
-
-1.Created a Twitter Streaming model to collect real-time tweets based on location and hashtags and stored the collected tweets in the local database as well as in the cloud.
-
-2.Performed sentiment analysis, bot identification and visualization from the data obtained.
-
-3.Developed a Stack based Machine Learning Algorithm to predict the political orientation of the tweet(Republican/Democratic).
-
-4.Successfully tested the codes using a Kaggle Dataset. Currently, collecting real-time tweets to perform analysis.
-
-5.All the API keys were changed for our privacy.
-
-6.A proper documentation of the project would be uploaded once the project is completed.
-
-7.The project was done together with Arun Kumar (https://github.com/Arun152k).
