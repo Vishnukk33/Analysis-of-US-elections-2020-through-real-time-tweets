@@ -59,13 +59,17 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 
 
 ### Word Clouds
-List of Most popular hastags as a word cloud
+####List of Most popular hastags as a word cloud  
+
+
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_hash.jpg" width="500" height="400"  />
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_hash.jpg" width="500" height="400"  />
 
 
-Most popular words used in tweets as a world cloud
+####Most popular words used in tweets as a world cloud
+
+
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_tweet.jpg" width="500" height="400"  />
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_tweet.jpg" width="500" height="400"  />
