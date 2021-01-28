@@ -4,22 +4,35 @@
 
 ## Data Visualization and Analysis:
 
-### Initialization
-
-
-### Preprocessing
-
+### Initialization and Preprocessing
+Files and variables required for visualization were imported and declared in this section.
+Reading of the input data as well as the preprocessing( segregation, ordering,etc) for it were carried out here.
 
 ### Visualization
+<h4>
+<ol type="1">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>  
+</h4?
 
-#### Average No. of tweets tweeted per user in a day (dem/rep)
-This part shows ths stuff
+### Botometer API
 
 
-###
+### Top Hashtags
 
-<h4>Average No. of tweets tweeted per user in a day (dem/rep)</h4>
+
+### Word Clouds
+
+
+### Sentiment Analysis
+
+
+
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
+
+
 1. Average No. of tweets tweeted per user in a day (dem/rep)
 2. Bar graph Total no of tweets tweeted per day (dems/rep)
 3. Bar graph No. of unique users tweeted per day (dems/rep)
