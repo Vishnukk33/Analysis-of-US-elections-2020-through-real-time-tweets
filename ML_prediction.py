@@ -1,11 +1,10 @@
-import pandas as pd
-pd.options.mode.chained_assignment = None
+import re
 import nltk
+import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-import re
 from sklearn.metrics import accuracy_score 
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
@@ -14,9 +13,13 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from xgboost import XGBClassifier
 from vecstack import stacking
-csvname="book3.csv"
+
+pd.options.mode.chained_assignment = None
+csvname="book3.csv" # Insert your csv name here.
 data=pd.read_csv(csvname)
 rows=len(data)
+
+# 'corpus' list consists of the tweet text and 'y' consists of the political affliation of the tweet.
 
 corpus=[]
 y=[]
@@ -27,10 +30,14 @@ for i in range(rows):
         y.append(data['Party'][i])
     print(i)
 
+# Using Term-Frequency-Iverse-Document-Frequency and fitting corpus into it.
+
 vectorizer = TfidfVectorizer(min_df=50,max_features=1500)
 vectorizer.fit(corpus)
 X1 = vectorizer.transform(corpus)
 X1=X1.toarray()
+
+# Using Count-Vectorizer and fitting corpus into it.
 
 from sklearn.feature_extraction.text import CountVectorizer
 cv = CountVectorizer(max_features = 1500)
@@ -38,11 +45,14 @@ X2 = cv.fit_transform(corpus).toarray()
 
 y = np.array(y)
 
+# Splitting the dataset into Training and Test set.
+
 from sklearn.model_selection import train_test_split
 X1_train, X1_test, y1_train, y1_test = train_test_split(X1, y, test_size = 0.2, random_state = 0)
 from sklearn.model_selection import train_test_split
 X2_train, X2_test, y2_train, y2_test = train_test_split(X2, y, test_size = 0.2, random_state = 0)
 
+# Performing LinearDiscriminantAnalysis.
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 lda = LDA(n_components =2)
 X1_train = lda.fit_transform(X1_train, y1_train)
@@ -52,6 +62,7 @@ lda = LDA(n_components =2)
 X2_train = lda.fit_transform(X2_train, y2_train)
 X2_test = lda.transform(X2_test)
 
+# Fitting the data into Machine Learning Models.
 
 from sklearn.svm import SVC
 from sklearn import svm
@@ -67,7 +78,6 @@ adaboostSVC1.fit(X1_train,y1_train)
 
 adaboostSVC2 = AdaBoostClassifier(n_estimators=50, base_estimator= SVC2,learning_rate=1, random_state = 1,algorithm='SAMME')
 adaboostSVC2.fit(X2_train,y2_train)
-
 
 from xgboost import XGBClassifier
 XGB1 = XGBClassifier()
@@ -89,6 +99,8 @@ DT1.fit(X1_train, y1_train)
 DT2= DecisionTreeClassifier(criterion = 'entropy', random_state = 0)
 DT2.fit(X2_train, y2_train)
 
+# Performing Voting to improve accuracy. 
+
 from sklearn.ensemble import VotingClassifier
 
 eclf1 = VotingClassifier(estimators=[
@@ -103,24 +115,14 @@ eclf2.fit(X2_train, y2_train)
 y2_pred=eclf1.predict(X2_test)
 print(accuracy_score(y2_test,y2_pred)) #Output 0.6747641253660124
 
-eclf = VotingClassifier(estimators=[
+"""eclf = VotingClassifier(estimators=[
       ('eclf1',eclf1),('eclf2',eclf2)], voting='soft')
 
 eclf.fit(X2_train, y2_train)
 y_pred=eclf1.predict(X2_test)
-print(accuracy_score(y2_test,y_pred)) #Output 0.6747641253660124
+print(accuracy_score(y2_test,y_pred)) #Output 0.6747641253660124"""
 
-#I tried boosting the resultant voting classifier using the below lines
-'''
-adaboost= AdaBoostClassifier(n_estimators=50, base_estimator= eclf,learning_rate=1,algorithm='SAMME')
-adaboost.fit(X2_train,y2_train)
-adaboost.predict(X2_test)'''
-#But I got this error
-''' ValueError: BaseClassifier in AdaBoostClassifier ensemble is worse than random, ensemble can not be fit.'''
-
-#I tried getting the accuracy of individual classifiers and SVC alone seems to outperform the previous ensemble model
-
-#Individual Classifiers
+# Predicting using Individual Classifiers.
 
 y_pred=DT1.predict(X1_test)
 print(accuracy_score(y1_test,y_pred)) #Output 0.6437479665979828
