@@ -27,7 +27,12 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   
   
   <li><h4>Follower distribution</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"/>
+    <img 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"/>
   
   
 </ol>  
