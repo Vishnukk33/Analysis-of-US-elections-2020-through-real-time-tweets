@@ -160,9 +160,9 @@ We had some interesting findings such as:
 ### Top Hashtags
 The images below show the top 10 most popular hashtags in the tweets that we collected in the democratic and republican data-sets respectively:
 
-  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoHashSS.PNG" width="500" height="400"  />
+  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopdemoHashSS.PNG" width="500" height="400"  />
   
- <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuHashSS.PNG" width="500" height="400"  />
+ <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/ToprepHashSS.PNG" width="500" height="400"  />
 
 From the above images we can infer that Trump2020 was the most popular tweet with a whopping 41k tweets followed by BidenHarris2020.
 
