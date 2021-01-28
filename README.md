@@ -159,7 +159,7 @@ We had some interesting findings such as:
 * Some users consistently maintained the most number of tweets for more than a day also showing us that these where extremely active accounts and may have also been spam bots.
 
 ### Top Hashtags
-The images below show the top 10 most popular hastags in the tweets that we collected in the democratic and republican data-sets respectively:
+The images below show the top 10 most popular hashtags in the tweets that we collected in the democratic and republican data-sets respectively:
 
   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoHashSS.PNG" width="500" height="400"  />
   
@@ -168,19 +168,18 @@ The images below show the top 10 most popular hastags in the tweets that we coll
 From the above images we can infer that Trump2020 was the most popular tweet with a whopping 41k tweets followed by BidenHarris2020.
 
 ### Word Clouds
-#### List of Most popular hastags as a word cloud  
+#### List of Most popular hashtags as a word cloud  
 
-We have represented the most popular hastags as word clouds since it is more appealing and serves as a better illustration.
+We have represented the most popular hashtags as word clouds since it is more appealing and serves as a better illustration.
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_hash.jpg" width="500" height="400"  />
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_hash.jpg" width="500" height="400"  />
 
 
-
 #### Most popular words used in tweets as a world cloud
 
-We have represented the most frequently occuring words in the tweets as word clouds as well.
+We have represented the most frequently occurring words in the tweets as word clouds as well.
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_tweet.jpg" width="500" height="400"  />
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_tweet.jpg" width="500" height="400"  />
@@ -191,15 +190,12 @@ We performed sentiment analysis on a separate data-set as mentioned earlier and 
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Sentiment.png" width="500" height="400"  />
 
-To perform sentiment analysis we used the  () API on the data-set. From the image u can tell that almost 50% of the tweets are positive in nature.
+To perform sentiment analysis we used the  () API on the data-set. From the image you can tell that almost 50% of the tweets are positive in nature which is reassuring.
+
+
+### Mapploter
 
 
 
 
-
-
-
-
-
-13. Summary of all data counts
-14. Mapploter
+## Conclusion
