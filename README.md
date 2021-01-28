@@ -41,13 +41,13 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   
   
   <li><h4>Tweet count vs Originating State</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="600" height="600"  />
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="700" height="500"  />
    
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="700" height="600"  />
     
    The above Graphs indicate that California, Florida, New York, Texas and Illinois are the states from which majority of the Democratic Party tweets originate from in descending order. 
     
-   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="600" height="600"  /> 
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="700" height="500"  /> 
     
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="700" height="600"  />
     
