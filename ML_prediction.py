@@ -125,31 +125,31 @@ print(accuracy_score(y2_test,y_pred)) #Output 0.6747641253660124"""
 # Predicting using Individual Classifiers.
 
 y_pred=DT1.predict(X1_test)
-print(accuracy_score(y1_test,y_pred)) #Output 0.6437479665979828
+print(accuracy_score(y1_test,y_pred))
 
 y_pred=DT2.predict(X2_test)
-print(accuracy_score(y2_test,y_pred)) #Output 0.6489534757618479
+print(accuracy_score(y2_test,y_pred)) 
 
 y_pred=XGB1.predict(X1_test)
-print(accuracy_score(y1_test,y_pred)) #Output 0.6942847847305065
+print(accuracy_score(y1_test,y_pred)) 
 
 y_pred=XGB2.predict(X2_test)
-print(accuracy_score(y2_test,y_pred)) #Output 0.6997071901095326
+print(accuracy_score(y2_test,y_pred)) 
 
 y_pred=RF1.predict(X1_test)
-print(accuracy_score(y1_test,y_pred)) #Output 0.6439648628131439
+print(accuracy_score(y1_test,y_pred))
 
 y_pred=RF2.predict(X2_test)
-print(accuracy_score(y2_test,y_pred)) #Output 0.6493872681921701
+print(accuracy_score(y2_test,y_pred))
 
 y_pred=SVC1.predict(X1_test)
-print(accuracy_score(y1_test,y_pred)) #Output 0.6978635722806638
+print(accuracy_score(y1_test,y_pred))
 
 y_pred=SVC2.predict(X2_test)
-print(accuracy_score(y2_test,y_pred)) #Output 0.7022014965838846
+print(accuracy_score(y2_test,y_pred))
 
 y_pred=adaboostSVC1.predict(X1_test)
-print(accuracy_score(y1_test,y_pred)) #Output 0.6953692658063116
+print(accuracy_score(y1_test,y_pred))
 
 y_pred=adaboostSVC2.predict(X2_test)
-print(accuracy_score(y2_test,y_pred)) #Output 0.6959115063442143
+print(accuracy_score(y2_test,y_pred)) 
