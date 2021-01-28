@@ -170,21 +170,20 @@ From the above images we can infer that Trump2020 was the most popular tweet wit
 ### Word Clouds
 #### List of Most popular hastags as a word cloud  
 
+We have represented the most popular hastags as word clouds since it is more appealing and serves as a better illustration.
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_hash.jpg" width="500" height="400"  />
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_hash.jpg" width="500" height="400"  />
 
-The word clouds above illustrate the most popular hashtags from democratic and republican tweets respectively in the shape of the US.
+
 
 #### Most popular words used in tweets as a world cloud
 
-
+We have represented the most frequently occuring words in the tweets as word clouds as well.
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_tweet.jpg" width="500" height="400"  />
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_tweet.jpg" width="500" height="400"  />
-
-The word clouds above illustrate the most popular words from democratic and republican tweets respectively in the shape of a US flag.
 
 ### Sentiment Analysis
 
