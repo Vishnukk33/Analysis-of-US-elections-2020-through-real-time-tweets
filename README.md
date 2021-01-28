@@ -30,13 +30,32 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   <li><h4>Follower distribution</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"  />
   
+  <li><h4>Tweet count vs state (dems/rep)</h4></li>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="600" height="400"  />
+    
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png.png" width="600" height="400"  />
+    
+  <li><h4>Tweet count percentage vs state</h4></li>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="600" height="400"  />
+    
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="600" height="400"  />
+    
+  <li><h4>Removed vs verified vs non-verfied</h4></li>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"  />
   
 </ol>  
 
 ### Botometer API
 
+  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoTweetsSS.PNG" width="600" height="400"  />
+  
+ <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="600" height="400"  />
 
 ### Top Hashtags
+
+  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoHashSS.PNG" width="600" height="400"  />
+  
+ <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuHashSS.PNG" width="600" height="400"  />
 
 
 ### Word Clouds
