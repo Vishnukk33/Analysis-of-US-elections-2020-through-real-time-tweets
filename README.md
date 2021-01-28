@@ -90,7 +90,7 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Average.PNG" width="550" height="400"/>
   
   
-  The above results indicate that the average number of tweets per user is slightly higher among the republic supporters than the democratic supporters. The overall average comes out to be 1.59 tweets per day.
+  The above results indicate that the average number of tweets per user is slightly higher among the republican supporters than the democratic supporters. The overall average comes out to be 1.59 tweets per day.
   <li><h4>Total no. of tweets tweeted per day</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="450" height="400"/>          
   
@@ -110,7 +110,7 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"  />
   
   
-  The Graph shows how many followers the republic and democratic users have by segregating them into classes. From the above, we can tell that on average republican accounts have more followers than democratic users since the numbers from the republic users are higher in every class. Ofcourse this is limited to only the users from whom we collected the tweets.
+  The Graph shows how many followers the republican and democratic users have by segregating them into classes. From the above, we can tell that on average republican accounts have more followers than democratic users since the numbers from the republic users are higher in every class. Ofcourse this is limited to only the users from whom we collected the tweets.
   
   
   <li><h4>Tweet count vs Originating State</h4></li>
@@ -125,7 +125,7 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="700" height="600"  />
     
     
-   The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the Republic Party tweets originate from in descending order. 
+   The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the Republican Party tweets originate from in descending order. 
   <li><h4>Removed vs verified vs non-verfied</h4></li>
   While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier had been removed. This is evidence that many accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.                                                                                                                                                         
   
