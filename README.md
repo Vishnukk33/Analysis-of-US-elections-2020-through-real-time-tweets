@@ -76,13 +76,17 @@ We have incorporated the following in our project:
 
 ### Note:
 * The collected tweets/data is publicly available and have been tweeted by public twitter handles. These tweets/data were collected and uploaded only for strict academic purposes.  
+* We have used the terms republican and democratic as synonyms for users who tend to be politically oriented towards the republic and democratic party respectively.
 
 
 
 ## Data Visualization and Analysis:
 The entire visualization and analysis can be found in the file named 'Data_Visualization.ipynb'
 
+
 ### Visualization
+
+*Pictures speak a thousand words*
 
 <ol type="1">
   <li><h4>Average number of tweets tweeted per user in a day</h4></li>
@@ -110,7 +114,7 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"  />
   
   
-  The Graph shows how many followers the republican and democratic users have by segregating them into classes. From the above, we can tell that on average republican accounts have more followers than democratic users since the numbers from the republic users are higher in every class. Ofcourse this is limited to only the users from whom we collected the tweets.
+  The Graph shows how many followers the republican and democratic users have by segregating them into classes(0-50,50-200,200-1000,1000 and above). For example if a user has 250 followers, he would be placed under the third class(200-1000). From the above, we can tell that on average republican accounts have more followers than democratic users since the numbers from the republic users are higher in every class. Ofcourse this is limited to only the users from whom we collected the tweets.
   
   
   <li><h4>Tweet count vs Originating State</h4></li>
