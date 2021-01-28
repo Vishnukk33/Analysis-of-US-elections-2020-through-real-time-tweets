@@ -9,8 +9,8 @@ Files and variables required for visualization were imported and declared in thi
 Reading of the input data as well as the preprocessing( segregation, ordering,etc) for it were carried out here.
 
 ### Visualization
-#### 1.Average No. of tweets tweeted per user in a day(democratic)
-#### 2.Average No. of tweets tweeted per user in a day(republic)
+####    1.Average No. of tweets tweeted per user in a day(democratic)
+####    2.Average No. of tweets tweeted per user in a day(republic)
 
 
 ### Botometer API
