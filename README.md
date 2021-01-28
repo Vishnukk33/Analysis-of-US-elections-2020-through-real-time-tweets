@@ -74,11 +74,6 @@ We have incorporated the following in our project:
 * "ML_prediction.py" uses standard Machine Learning Algorithms to predict the political orientation of the tweets as well as attempts to use a Stack Based Voting Algorithm.
 * ".ipynb" file contains the entire sequence in a single file. The accuracy obtained through each algorithm is mentioned in this file.
 
-### Note:
-* The collected tweets/data is publicly available and have been tweeted by public twitter handles. These tweets/data were collected and uploaded only for strict academic purposes.  
-* We have used the terms republican and democratic as synonyms for users who tend to be politically oriented towards the republic and democratic party respectively.
-
-
 
 ## Data Visualization and Analysis:
 The entire visualization and analysis can be found in the file named 'Data_Visualization.ipynb'
@@ -201,5 +196,20 @@ We have plotted the republican and democratic geo-tagged tweets on two separate 
 
 Drive link: https://drive.google.com/drive/folders/11V0DFpFqWhZsMPT1Th_3sMnfH5peRL4q?usp=sharing
 
+The following analysis can be made from viewing the plotted Heatmaps:
+1. We could see from both the Heatmaps that a much larger number of users tweet from the North-Eastern and South-Western regions of the country than compared to the other regions of the country. This could be because of the fact these regions are more densely populated and technologically well developed. 
+
+2. The Democratic Heatmap has a much stronger shade in the North-Eastern regions and the state of Washington where Joe Biden won the electoral votes, while the Republican Heatmaps show a comparitively darker shade in the Central states and the state of Florida where Donald Trump won the ectoral votes (Although there are certain anamolies seen in the Heatmaps while comparing it to the Electoral College maps).     
 
 ## Conclusion
+It took a lot of time and effort from our ourside to complete this comprehensive project. Though it has been an arduous journey, we are satisfied with the outcome of our project. We have gained a tremendous amount of knowledge and explored various fields. If you have any comments or queries please rach out to us at: rarunkumar15112k@gmail.com, vishnukamk@gmail.com.
+
+
+### Note:
+* The collected tweets/data is publicly available and have been tweeted by public twitter handles. These tweets/data were collected and uploaded only for strict academic purposes.  
+* We have used the terms republican and democratic as synonyms for users who tend to be politically oriented towards the republican and democratic party respectively.
+* The aim of this project was not to predict the results of the elections, but to analyse the tweets and its meta data related to The United States Elections 2020.
+
+
+
+
