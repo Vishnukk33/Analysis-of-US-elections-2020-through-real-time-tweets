@@ -36,6 +36,10 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   <li><h4>Follower distribution</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"  />
   
+  
+  The Graph shows how many followers the republic and democratic users have by segregating them into classes. From the above, we can tell that on average republican accounts have more followers than democratic users since the numbers from the republic users are higher in every class. Ofcourse this is limited to only the users from whom we collected the tweets.
+  
+  
   <li><h4>Tweet count vs state (dems/rep)</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="600" height="500"  />
     
