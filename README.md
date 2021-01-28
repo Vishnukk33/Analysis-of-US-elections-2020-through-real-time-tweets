@@ -130,7 +130,7 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
   While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier had been removed. This is evidence that many accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.                                                                                                                                                         
   
   
-  
+ 
   
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
    
@@ -140,13 +140,21 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
 </ol>  
 
 ### Botometer API
-In order to check if the top most tweeted user's were bots or not, we used an API called Botometer. 
+In order to check if the top most tweeted user's were bots or not, we used an API called Botometer. After running the API on the top 2 tweeters of each of day totalling to 9 users(since one of the top tweeters were repeated) for republican and democratic supporters, we found the following:
 
 
   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoTweetsSS.PNG" width="600" height="400"  />
   
   
  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="600" height="400"  />
+
+
+The Accounts marked as unkown are set to private so we weren't be able to check if its a bot or not. Nevertheless,
+We had some interesting findings such as:
+* Most of the users scored a 60% or higher chance of being a bot while one user alone scored a chance of over a 40% of being a bot.
+* The same top user had sent a lot of both republican and democratic tweets.
+* Some users consistently maintained the most number of tweets sent for more than a day's time.
+
 
 ### Top Hashtags
 
