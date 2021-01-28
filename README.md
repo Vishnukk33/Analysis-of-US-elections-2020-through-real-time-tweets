@@ -9,9 +9,15 @@ Files and variables required for visualization were imported and declared in thi
 Reading of the input data as well as the preprocessing( segregation, ordering,etc) for it were carried out here.
 
 ### Visualization
-####    1.Average No. of tweets tweeted per user in a day(democratic)
-####    2.Average No. of tweets tweeted per user in a day(republic)
 
+<h4>
+<ol type="1">
+  <li>Average No. of tweets tweeted per user in a day(democratic)</li>
+  Hello
+  <li>Average No. of tweets tweeted per user in a day(republic)</li>
+  <li>Milk</li>
+</ol>  
+</h4?
 
 ### Botometer API
 
