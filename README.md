@@ -202,5 +202,4 @@ We have plotted the republican and democratic geo-tagged tweets on two separate 
 Drive link: https://drive.google.com/drive/folders/11V0DFpFqWhZsMPT1Th_3sMnfH5peRL4q?usp=sharing
 
 
-
 ## Conclusion
