@@ -134,6 +134,8 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
   While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier were not available. This is because those accounts were either banned(by Twitter) or deactivated. This suggests that a good number of accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates.  
   
   
+  
+  
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
    
    
@@ -145,15 +147,15 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
 In order to check if the top most tweeted user's were bots or not, we used an API called Botometer. After running the API on the top 2 tweeters of each of day totalling to 9 users(since one of the top tweeters were repeated) for republican and democratic supporters, we found the following:
 
 
-  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoTweetsSS.PNG" width="600" height="400"  />
+  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopDemoTweetsSS.PNG" width="500" height="400"  />
   
   
- <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="600" height="400"  />
+ <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/TopRepuTweetsSS.PNG" width="500" height="400"  />
 
 
 The Accounts marked as unkown are either set to private or removed so we weren't be able to check if its a bot or not. Nevertheless,
 We had some interesting findings such as:
-* With a threshold of 60%, 11 out of 12 public users were found to be bots and with a threshold of 40% all of them were marked as bots.
+* With a threshold of 60%, 10 out of 12 public users were found to be bots and with a threshold of 40% all of them were marked as bots.
 * One user made the top for both most number of democratic as well republican tweets. We can conlude that this was most likely some kind of spam bot.
 * Some users consistently maintained the most number of tweets for more than a day also showing us that these where extremely active accounts and may have also been spam bots.
 
@@ -164,7 +166,7 @@ The images below show the top 10 most popular hashtags in the tweets that we col
   
  <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/ToprepHashSS.PNG" width="500" height="400"  />
 
-From the above images we can infer that Trump2020 was the most popular tweet with a whopping 41k tweets followed by BidenHarris2020.
+From the above images we can infer that Trump2020 was the most popular tweet with a whopping 47k tweets followed by BidenHarris2020 at 41k.
 
 ### Word Clouds
 #### *List of Most popular hashtags as a word cloud  
