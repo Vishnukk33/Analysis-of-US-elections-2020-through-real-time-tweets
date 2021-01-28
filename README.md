@@ -136,8 +136,11 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
   
 
 This article here goes into more detail:       
-https://www.deccanherald.com/international/world-news-politics/twitter-bots-spread-disinformation-before-us-presidential-election-908932.html
+https://www.deccanherald.com/international/world-news-politics/twitter-bots-spread-disinformation-before-us-presidential-election-908932.html 
+
 https://www.nature.com/articles/d41586-020-03034-5
+
+
 
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
 </ol>  
