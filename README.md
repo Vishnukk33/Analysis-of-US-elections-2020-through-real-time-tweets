@@ -15,6 +15,8 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   <li><h4>Average number of tweets tweeted per user in a day</h4></li>
   
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Average.PNG" width="550" height="400"/>
+  
+  
   The above results indicate that the average number of tweets per user is slightly higher among republic candidates than democratic candidates and the overall average comes  out to be 1.59 tweets per day.
   <li><h4>Total no. of tweets tweeted per day</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="450" height="400"/>          
