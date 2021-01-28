@@ -31,9 +31,9 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Followers.png" width="600" height="400"  />
   
   <li><h4>Tweet count vs state (dems/rep)</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="600" height="400"  />
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_DemoTweetcount.png" width="600" height="500"  />
     
-   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="600" height="400"  />
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="600" height="500"  />
     
   <li><h4>Tweet count percentage vs state</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="700" height="600"  />
@@ -41,7 +41,7 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="700" height="600"  />
     
   <li><h4>Removed vs verified vs non-verfied</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="600" height="400"  />
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
   
 </ol>  
 
