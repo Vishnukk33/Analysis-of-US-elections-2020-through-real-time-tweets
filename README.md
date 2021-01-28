@@ -12,9 +12,17 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 
 
 <ol type="1">
-  <li><h4>Average No. of tweets tweeted per user in a day(democratic)</h4></li>
-  Hello
-  <li>Average No. of tweets tweeted per user in a day(republic)</li>
+  <li><h4>Total no. of tweets tweeted per day</h4></li>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep1.png" width="400" height="400"/>
+    The Above graphs show us what the total number of tweets on each of the days for democratic and republic party supporters respectively.
+  
+  
+  <li><h4>No. of unique users tweeted per day</h4></li>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo2.png" width="400" height="400"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep2.png" width="400" height="400"/>
+    
+  
   <li>Milk</li>
 </ol>  
 
@@ -30,8 +38,6 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 ### Sentiment Analysis
 
 
-
-<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="400" height="400"/>
 
 
 1. Average No. of tweets tweeted per user in a day (dem/rep)
