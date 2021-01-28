@@ -96,16 +96,16 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
   
   The above results indicate that the average number of tweets per user is slightly higher among the republican supporters than the democratic supporters. The overall average comes out to be 1.59 tweets per day.
   <li><h4>Total no. of tweets tweeted per day</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="450" height="400"/>          
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo1.png" width="600" height="400"/>          
   
-   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep1.png" width="450" height="400"/>
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep1.png" width="600" height="400"/>
   
   From the Above graphs we can tell that the total number of republican and democratic supporting tweets are almost comparable during the 5 days that we collected them. 
   
   
   <li><h4>No. of unique users tweeted per day</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo2.png" width="450" height="400"/>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep2.png" width="450" height="400"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo2.png" width="600" height="400"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep2.png" width="600" height="400"/>
     
   From the Above graphs we can tell that the total number of UNIQUE republican and democratic users are almost comparable during the 5 days that we collected them.
   
