@@ -21,8 +21,8 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
   
   
   <li><h4>No. of unique users tweeted per day</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo2.png" width="400" height="400"/>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep2.png" width="400" height="400"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Demo2.png" width="450" height="400"/>
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_Rep2.png" width="450" height="400"/>
     
   From the Above graphs we can tell that the total number of UNIQUE republican and democratic users are almost comparable during the 5 days that we collected them.
   
