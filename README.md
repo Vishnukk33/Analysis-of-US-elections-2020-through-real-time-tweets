@@ -10,14 +10,13 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 
 ### Visualization
 
-<h4>
+
 <ol type="1">
-  <li>Average No. of tweets tweeted per user in a day(democratic)</li>
+  <li><h4>Average No. of tweets tweeted per user in a day(democratic)</h4></li>
   Hello
   <li>Average No. of tweets tweeted per user in a day(republic)</li>
   <li>Milk</li>
 </ol>  
-</h4?
 
 ### Botometer API
 
