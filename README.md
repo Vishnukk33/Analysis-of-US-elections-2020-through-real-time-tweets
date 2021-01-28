@@ -132,10 +132,16 @@ The entire visualization and analysis can be found in the file named 'Data_Visua
    The above Graphs indicate that Texas, California, Florida, New York, and Illinois are the states from which majority of the tweets supporting the Republican Party originate(in descending order)
    
   <li><h4>Removed vs verified vs non-verfied</h4></li>
-  While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier were not available. This is because those accounts were either banned(by Twitter) or deactivated. This suggests that a good number of accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates. These accounts according to some media-outlets may have been used by different countries to sow discord during the election. This article here goes into more detail:                                                                                                         
+  While checking the number of verified accounts we came across something interesting. Many of the accounts from which we had collected tweets earlier were not available. This is because those accounts were either banned(by Twitter) or deactivated. This suggests that a good number of accounts which tweeted about the elections were actually fake bots that were designed to spread propaganda to potentially skew the election towards one of the candidates. These accounts according to some media-outlets may have been used by different countries to sow discord during the election.                                                                                                   
   
+
+This article here goes into more detail:       
+https://www.deccanherald.com/international/world-news-politics/twitter-bots-spread-disinformation-before-us-presidential-election-908932.html
+https://www.nature.com/articles/d41586-020-03034-5
+
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="400" height="400"  />
 </ol>  
+
 
 ### Botometer API
 In order to check if the top most tweeted user's were bots or not, we used an API called Botometer. After running the API on the top 2 tweeters of each of day totalling to 9 users(since one of the top tweeters were repeated) for republican and democratic supporters, we found the following:
