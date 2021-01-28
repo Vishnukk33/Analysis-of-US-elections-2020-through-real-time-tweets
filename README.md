@@ -36,9 +36,9 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/BarGraph_RepTweetcount.png" width="600" height="400"  />
     
   <li><h4>Tweet count percentage vs state</h4></li>
-    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="600" height="400"  />
+    <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_DemoState.png" width="700" height="600"  />
     
-   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="600" height="400"  />
+   <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_RepState.png" width="700" height="600"  />
     
   <li><h4>Removed vs verified vs non-verfied</h4></li>
     <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Verified.png" width="600" height="400"  />
@@ -59,10 +59,20 @@ Reading of the input data as well as the preprocessing( segregation, ordering,et
 
 
 ### Word Clouds
+List of Most popular hastags as a word cloud
+<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_hash.jpg" width="500" height="400"  />
 
+<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_hash.jpg" width="500" height="400"  />
+
+
+Most popular words used in tweets as a world cloud
+<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_dem_tweet.jpg" width="500" height="400"  />
+
+<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_tweet.jpg" width="500" height="400"  />
 
 ### Sentiment Analysis
 
+<img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Sentiment.png" width="500" height="400"  />
 
 
 
