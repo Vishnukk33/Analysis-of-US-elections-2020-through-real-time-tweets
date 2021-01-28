@@ -12,9 +12,8 @@
 
 ### Visualization
 
-
-#### ff
-
+#### Average No. of tweets tweeted per user in a day (dem/rep)
+This part shows ths stuff
 
 
 ###
