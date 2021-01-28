@@ -189,8 +189,7 @@ We performed sentiment analysis on a separate data-set as mentioned earlier and 
 
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/Pie_Sentiment.png" width="500" height="400"  />
 
-To perform sentiment analysis we used the  () API on the data-set. From the image you can tell that almost 50% of the tweets are positive in nature which is reassuring.
-
+To perform sentiment analysis we used the  Vader sentiment analysis API on the data-set. From the image you can tell that almost 50% of the tweets are positive in nature.
 
 ### Mapploter
 
