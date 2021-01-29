@@ -64,15 +64,13 @@ We have incorporated the following in our project:
 * There are 14 .csv files in total, which include democ1.csv, democ2.csv, democ3.csv, democ4.csv, democ5.csv, repub1.csv, repub2.csv, repub3.csv, repub4.csv, repub5.csv and sentiday1.csv, sentiday2.csv, sentiday3.csv, sentiday4.csv.
 * "Getting_hashtags_from_tweet.py" was run on these above-mentioned datasets in order to extract the additional datasets tagged by the users in their tweets.
 * The Data visualization, analysis, and Machine Learning based predictions were all performed using these .csv files.
+* Along with all the Datasets, a sample copy of "ML.csv" and the .db file in which we stored the tweets named "realtimetweets.db" have been uploaded as well. 
 
-### Our Dataset sneakpeek:
+### Dataset Sneakpeek:
 
 * We have collected 95,087 Pro-Democratic Tweets, 1,19,854 Pro-Republican Tweets and 20,750 Tweets for Sentiment Analysis.
 * Thus in total, we have collected **2,35,691** tweets which we used in various stages of the Data Analysis.
-* Further details of our Dataset is mentioned in "Survey.txt".
-* We have uploaded the complete Dataset in the Google Drive. The Link is given below:
 
-Dataset Link: https://drive.google.com/drive/folders/106wLxxQdNWpxwSZ7FbUWjbHr4uBeivSo?usp=sharing
 
 ## Machine Learning:
 * The goal was to predict the political orientation of the tweets using Machine Learning Algorithms.
@@ -228,7 +226,7 @@ It took a lot of time and effort from our side to complete this comprehensive pr
 
 ### Note:
 * The collected tweets/data is publicly available and have been tweeted by public Twitter handles (at least at the time of data collection). These tweets/data were collected, used, and uploaded strictly for academic purposes.  
-* We have uploaded the Datasets, heatmaps, a sample "ML.csv" file, and the .db file which we used to collect the tweets in the folders above.
+* We have uploaded the Data-sets, heatmaps, a sample "ML.csv" file, and the .db file which we used to collect the tweets in the folders above.
 * We have used the terms republican and democratic as synonyms for users who tend to be politically oriented towards the republican and democratic party respectively.
 * The aim of this project was not to predict the results of the elections but to analyze the tweets and their metadata related to The United States Elections 2020.
 * We have used only "Filter_by_hashtags.py" to collect the data. We have uploaded "Filter_by_locations.py" and "Filter_by_users.py" as an additional reference.
