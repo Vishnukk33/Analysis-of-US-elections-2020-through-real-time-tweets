@@ -1,0 +1,35 @@
+Pro-Democratic Tweets:
+	
+	Total 	State(Avl.)	Lat/Long(Avl.)		Banned/Suspended/Deactivated(Acc.)		Verified(Acc.) 
+DAY1	16694 	416		14			11473						40	
+DAY2	14932  	344		14			7590						42
+DAY3	25204  	557		21			12673						80
+DAY4	22497	551		18			11478						76
+DAY5	15760	345		21			6148						68
+
+Pro-Republican Tweets:
+
+	Total 	State(Avl.)	Lat/Long(Avl.)		Banned/Suspended/Deactivated(Acc.)		Verified (Acc.)
+DAY1	19238	301		7			12476						11	
+DAY2	17929	235		4			8721						30
+DAY3	26444	386		8			14711						43
+DAY4	33585	504		9			17853						35
+DAY5	22658	316		6			10812						98
+
+Tweets for Sentiment Analysis:
+
+	Total	Positive	Negative	 	Neutral	
+DAY1	12329 	6537		2583			3229
+DAY2	5494	2775		1242			1477
+DAY3	1244	538		395			311
+DAY4	1683	737		508			438
+
+Where,
+Total				    - The count of the total nummber of Tweets collected in that day.	
+State(Avl.)                         - The count of Tweets which had the originating state available.
+Lat/Long(Avl.)                      - The count of Geotagged Tweets i.e Tweets which contained the information of its Tweeting Coordinates.  
+Banned/Suspended/Deactivated(Acc.)  - The count of Accounts which were Banned/Suspended/Deactivated within a week of Data collection.
+Verified(Acc.) 			    - The count of verified accounts.	
+Positive			    - The count of Tweets with positive sentiment.  	
+Negative			    - The count of Tweets with negative sentiment.
+Neutral 			    - The count of Tweets with neutral sentiment. 
