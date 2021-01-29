@@ -181,7 +181,7 @@ The images below show the top 10 most popular hashtags in the tweets that we col
 From the above images, we can infer that Trump2020 was the most popular tweet with a whopping 47k tweets followed by BidenHarris2020 at 41k.
 
 ### Word Clouds
-#### *List of Most popular hashtags as a word cloud  
+####   1. List of Most popular hashtags as a word cloud  
 
 We have represented the most popular hashtags as word clouds since it is more appealing and serves as a better illustration.
 
@@ -193,7 +193,7 @@ We have represented the most popular hashtags as word clouds since it is more ap
 <img src="https://github.com/Vishnukk33/Twitter-Project/blob/master/Graphs/wordcloud_rep_hash.jpg" width="500" height="400"  />
 
 
-#### *Most popular words used in tweets as a world cloud
+####   2. Most popular words used in tweets as a world cloud
 
 We have represented the most frequently occurring words in the tweets as word clouds as well.
 
