@@ -1,3 +1,5 @@
+# Code to extract Hashtags from Tweets.
+
 import pandas as pd
 import re
 
@@ -38,7 +40,6 @@ for name in range(1,6):
             data['hashtags'][i]=hashtags_final
             #print(hashtags_final)    
     data.to_csv(csvname,index=False)
-
 
 
 
