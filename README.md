@@ -70,6 +70,7 @@ We have incorporated the following in our project:
 
 * We have collected 95,087 Pro-Democratic Tweets, 1,19,854 Pro-Republican Tweets and 20,750 Tweets for Sentiment Analysis.
 * Thus in total, we have collected **2,35,691** tweets which we used in various stages of the Data Analysis.
+* Further details of our Dataset is mentioned in "Survey.txt".
 
 
 ## Machine Learning:
@@ -230,8 +231,3 @@ It took a lot of time and effort from our side to complete this comprehensive pr
 * We have used the terms republican and democratic as synonyms for users who tend to be politically oriented towards the republican and democratic party respectively.
 * The aim of this project was not to predict the results of the elections but to analyze the tweets and their metadata related to The United States Elections 2020.
 * We have used only "Filter_by_hashtags.py" to collect the data. We have uploaded "Filter_by_locations.py" and "Filter_by_users.py" as an additional reference.
-
-
-
-
-
