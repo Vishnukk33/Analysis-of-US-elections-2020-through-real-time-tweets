@@ -1,4 +1,4 @@
-# Getting the followers, their mentioned location and whether their account is verified, from the Twitter users.
+# Extracting the number of followers, the mentioned location of the user and whether the account is verified, from the Twitter users.
 
 import numpy as np
 import pandas as pd
@@ -32,4 +32,4 @@ for name in range(1,6):
             user_profile=api.get_user(user)
             data["followers"][i]=user_profile.followers_count
             data["mentioned_location"][i],data["verified"][i]=user_profile.location,user_profile.verified
-    data.to_csv(csvname,index='False')    
+    data.to_csv(csvname,index='False')
