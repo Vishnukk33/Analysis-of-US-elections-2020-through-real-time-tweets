@@ -1,4 +1,5 @@
-# This program filters tweets based on the coordinates mentioned.
+# This program filters tweets based on the coordinates mentioned (in locations).
+
 from ssl import SSLError
 import re
 import time
