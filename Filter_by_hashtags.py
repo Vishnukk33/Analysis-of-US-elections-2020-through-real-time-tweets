@@ -1,4 +1,4 @@
-# This program filters the tweets based on hashtags.
+# This program filters the tweets based on the mentioned hashtags (in 'track').
 
 from ssl import SSLError
 import string
