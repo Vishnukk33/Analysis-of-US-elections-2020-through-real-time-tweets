@@ -1,3 +1,5 @@
+# Plotting Heatmaps using Coordinates.
+
 import pandas
 from geopy.geocoders import Nominatim
 import gmplot
@@ -27,4 +29,3 @@ gmap.heatmap(latitude_final, longitude_final)
 
 # Generate the heatmap into an HTML file
 gmap.draw("repub_map.html")
-
