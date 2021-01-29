@@ -1,3 +1,5 @@
+# Code to create the Dataset for Machine Learning by randomly selecting 3000 tweets from each of the ten Data-sets.
+
 import pandas as pd
 import numpy as np
 import random
@@ -10,7 +12,7 @@ for name in range(1,6):
     data=pd.read_csv('democ'+str(name)+'.csv')
     rows=len(data)
     index_set=set()
-    while len(index_set)<=3000:
+    while len(index_set)<3000:
         index=random.randint(0, rows-1)
         if index not in index_set:
             index_set.add(index)
