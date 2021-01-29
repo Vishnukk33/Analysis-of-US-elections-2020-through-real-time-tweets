@@ -1,3 +1,5 @@
+# Displays the Tweets tweeted by the user in real-time. 
+
 from ssl import SSLError
 import re
 import time
